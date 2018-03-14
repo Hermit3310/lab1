@@ -1,0 +1,23 @@
+命令稿啟動於 2018年03月14日 下午 11:06:31
+]0;~
+[32muser@DESKTOP-DK0FOHR [33m~[0m
+$ ls
+A.cpp  a.exe  B.exe  lab1  lab1.script	running.script	typescript
+]0;~
+[32muser@DESKTOP-DK0FOHR [33m~[0m
+$ ./B
+Please input a positive integer: 22
+22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1 
+]0;~
+[32muser@DESKTOP-DK0FOHR [33m~[0m
+$ git clone https://github.com/Hermit3310/lab1
+fatal: destination path 'lab1' already exists and is not an empty directory.
+]0;~
+[32muser@DESKTOP-DK0FOHR [33m~[0m
+$ mv ruunnung.script[1Pnnung.script[C[C[C[C[C[C[C[C[C[C[1Png.scripting.script[C[C[C[C[C[C[C[C[C lab1
+]0;~
+[32muser@DESKTOP-DK0FOHR [33m~[0m
+$ add[K[K[Kgit add \[K[K[K[K[K[K[K[K[Kexit
+
+命令稿已於 2018年03月14日 下午 11:09:51
+ 完成
